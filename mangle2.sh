@@ -2,8 +2,8 @@
 IPT=$(which iptables)
 
 ### Interfaces ADSLs
-ADSL1 = " eth1 "
-ADSL2 = " eth3 "
+ADSL1 = "eth1"
+ADSL2 = "eth3"
 
 ### Gateways dos ADSLs
 GW1="10.0.3.2"
